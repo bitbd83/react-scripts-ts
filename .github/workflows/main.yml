@@ -1,2 +1,2 @@
-- name: Node Code Formatter
+- name: react-scripts-ts
   uses: MarvinJWendt/run-node-formatter@1.5.2
